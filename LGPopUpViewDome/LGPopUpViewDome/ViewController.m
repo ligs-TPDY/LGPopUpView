@@ -10,7 +10,6 @@
 #import "LGPopUpView.h"
 @interface ViewController ()
 @property (nonatomic,strong) LGPopUpView *popUpView;
-@property (nonatomic,assign) BOOL isShow;
 @end
 
 @implementation ViewController
